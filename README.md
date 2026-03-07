@@ -2,4 +2,4 @@
 
 **`Computer Science Nerd 🤓`** 
 
-Computer Science and Engineering student @ Instituto Superior Técnico!
+Computer Science and Engineering student @ Instituto Superior Técnico
