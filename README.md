@@ -1,4 +1,4 @@
-# [Marques](https://github.com/marques-jpg) here 🧑🏼‍💻!
+# Hey, [Marques](https://github.com/marques-jpg) here! 🧑🏼‍💻
 **`Computer Science Nerd 🤓`** 
 
 # About Me:
