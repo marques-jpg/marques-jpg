@@ -4,7 +4,7 @@
 # About Me:
 Technical Support Engineer @ [Cloudflare](https://www.cloudflare.com/)<br><br>
 Computer Science and engineering student @ Instituto Superior Técnico<br><br>
-General Coordinator @ [SINFO](https://sinfo.org/)<br><br>
+General Coordinator and President @ [SINFO](https://sinfo.org/)<br><br>
 Research Scholarship holder @ [Engenharia para todos](https://tecnico.ulisboa.pt/pt/tag/engenharia-para-todos/)<br><br>
 
 # 💻 Programming Languages:
